@@ -19,4 +19,5 @@ Use this password to log into bandit1 using SSH. Whenever you find a password fo
 # Solution for this Level
 
 ls
+
 cat readme
