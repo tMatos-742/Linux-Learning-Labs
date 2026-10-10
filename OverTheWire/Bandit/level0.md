@@ -22,4 +22,4 @@ ls
 
 cat readme
 
-![](images/BanditLevel0.png)
+![](Images/BanditLevel0.png)
