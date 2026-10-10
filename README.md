@@ -1,1 +1,1 @@
-overthewire.org Bandit CTF labs, focusing on Linux fundamentels
+overthewire.org Bandit labs, focusing on Linux fundamentels
