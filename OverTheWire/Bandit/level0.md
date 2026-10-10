@@ -21,3 +21,5 @@ Use this password to log into bandit1 using SSH. Whenever you find a password fo
 ls
 
 cat readme
+
+![](images/BanditLevel0.png)
