@@ -1,3 +1,7 @@
+# Username
+
+Bandit1
+
 # Bandit 1 Password 
 
 6y2kwnwK6grgvwvpvLaa2T1cpFEK0hNR
