@@ -6,7 +6,7 @@
 
 We connect to the user bandit1 via ssh to bandit.labs.overthewire.org host on port 2220 
 
-After this we locate the file in the home file and after that see its content.
+After this we locate the file in the home directory and after that we see the password for the next level
 
 # Solution for this level
 
