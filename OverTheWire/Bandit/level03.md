@@ -9,7 +9,8 @@ bandit3
 
 So now we need to find a command that can show us hidden files. But since its inside a directory we need to enter that directory first.
 
+# Solution for this Level 
+
 ![](Images/Bandit3Solution.png)
 
-And for that we use the command cd as you can see in the image. After that we will use the command # ls # with the  # -la # flag.
-The current directory is denoted as . and because its name starts with a dot, it is hidden by default. The same goes for the directory above the current one which is ..
+And for that we use the command cd as you can see in the image. Since we got the indication that the file has hidden and to see them with the command _ls_ we havo to use the argument _-a_, which alters the output of the command by including hidden files in the output of the command.
