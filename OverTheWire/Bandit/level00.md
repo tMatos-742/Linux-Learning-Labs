@@ -23,3 +23,5 @@ ls
 cat readme
 
 ![](Images/BanditLevel0.png)
+
+# The best is to save the password in a file in a notepad since its better to paste the password on the next ssh connection to the next level instead of typing it in.
