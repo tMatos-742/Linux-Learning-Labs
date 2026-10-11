@@ -14,4 +14,4 @@ After this we locate the file in the home directory and after that we see the pa
 
 # Solution for this level
 
-![](Images/Bandit1.png)
+<img width="515" height="231" alt="Bandit1" src="https://github.com/user-attachments/assets/581e12d3-b89e-4aaa-9865-26fcfeb1056e" />
