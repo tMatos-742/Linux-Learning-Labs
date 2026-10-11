@@ -22,7 +22,7 @@ ls
 
 cat readme
 
-![](Images/BanditLevel0.png)
+<img width="695" height="226" alt="BanditLevel0" src="https://github.com/user-attachments/assets/adde9fc5-8350-4584-8656-df6d6df0c196" />
 
 # The best is to save the password in a notepad since its better to paste the password on the next ssh connection instead of typing it in.
   Copy = Ctrl + Shift + C
