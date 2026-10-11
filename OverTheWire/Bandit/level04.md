@@ -30,6 +30,10 @@ And for that we use the special character _*_. This is called a wilcard caracter
 
 We can run the commando _file ./*_ like you see in the image above to combine the file command with the _*_ wilcard character to run the command on all the files inside the directory.
 
+After we now what file has the correct content inside we use _cat_ so we can know whats the password for the next level
+
+<img width="348" height="231" alt="Captura de ecrã 2026-10-11 151525" src="https://github.com/user-attachments/assets/d000dea7-05b0-4d65-aac6-fe389541062c" />
+
 Note:
 
 The _Find_ command os used to search for files on the system. It can be used in many different arguments and flags to make your search simpler.
