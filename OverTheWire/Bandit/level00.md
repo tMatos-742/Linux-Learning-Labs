@@ -26,4 +26,5 @@ cat readme
 
 # The best is to save the password in a notepad since its better to paste the password on the next ssh connection instead of typing it in.
   Copy = Ctrl + Shift + C
+  
   Paste = Ctrl + Shift + V
