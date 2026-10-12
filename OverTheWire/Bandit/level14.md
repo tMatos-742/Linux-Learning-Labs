@@ -22,5 +22,5 @@ There is two ways to do this we can either netcap localhost and after the connec
 
 <img width="655" height="164" alt="image" src="https://github.com/user-attachments/assets/485fc595-88a0-4c4b-8298-3b604d8e598f" />
 
-In this image as the solution that i explained just now.
+In this image we have the solution that i explained just now.
 
