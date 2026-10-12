@@ -41,3 +41,7 @@ This file need to only have reading and writing permissions for its owner.
 Let's see what have we made... We change the permissions of the file with the _chmod_ command and set the right permissions so the file can be used.
 
 After that we made the usual ssh command BUT this time we use _-i_ argument so it uses the sshkey.private to access the bandit14 user. 
+
+Since we are inside bandit14 now we just access the /etc/bandit_pass/bandit14 file that was mentioned before.
+
+<img width="396" height="34" alt="image" src="https://github.com/user-attachments/assets/eccb6194-684d-4f6c-aad7-55f06470dbdf" />
