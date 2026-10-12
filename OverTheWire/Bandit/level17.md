@@ -23,4 +23,4 @@ In this level we just need to compare the difference from the passwords.old and 
 
 <img width="376" height="91" alt="Captura de ecrã 2026-10-12 151102" src="https://github.com/user-attachments/assets/fe71e4d2-2062-4a66-a0b3-f4405229d81a" />
 
-Basically we tell the command to search the difference from old to new file. And as we there was a password that was change from the old to the new file.
+Basically we tell the command to search the difference between old and new file. And as we see there was a password that as been changed.
