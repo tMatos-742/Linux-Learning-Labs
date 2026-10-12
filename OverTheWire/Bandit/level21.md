@@ -8,7 +8,7 @@ bandit21
 It then reads a line of text from the connection and compares it to the password in the previous level (bandit20). 
 If the password is correct, it will transmit the password for the next level (bandit21).
 
-In this level we are required to inspect cronjobs, cronjobs are commands that are running at regular intervals. There's a cronjob setup for the bandit22 user.
+In this level we are required to inspect cronjobs, cronjobs are commands that are running at regular intervals, the time-based job scheduler. There's a cronjob setup for the bandit22 user.
 
 <img width="504" height="323" alt="image" src="https://github.com/user-attachments/assets/9a31e574-90f9-49b0-bacf-112017f36a3f" />
 
