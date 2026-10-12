@@ -20,7 +20,7 @@ So now that we got more information on cronjobs we can see that this cronjob is 
 
 We know that this is a script file because we can see the prefixe /bin/bash 
 
-Also the script tells us that the permissions of a file in /tmp are changed making it readable and after that we are reading the bandit22 file and sending it to the /tmp file.
+Also the script tells us that the permissions of the file in /tmp directory are changed making it readable by all users, it then copies the password for bandit 22 user into it.
 
 In conclusion we need to read the file in the /tmp directory to see the bandit22 password
 
