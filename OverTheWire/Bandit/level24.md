@@ -14,4 +14,10 @@ In this one we need to create a loop. And we want that loop to go in between 0 a
 
 With that said we are going to use piping and other commands.
 
+<img width="1206" height="197" alt="image" src="https://github.com/user-attachments/assets/784d3dcd-9f20-47b2-baba-6f50e819be91" />
 
+I think we can do better than this let's use our old friend _grep_ to filter want we don't want to see.
+
+<img width="1202" height="130" alt="image" src="https://github.com/user-attachments/assets/37bd2807-34b6-4757-80fc-0fd46ef91d1b" />
+
+There we go with grep we removed every result that started with Wrong! because that was basically the message that appear every time the pin code was wrong. Basically instead of having 9999 messages saying "Wrong Password" we just got the password for bandit25. 
