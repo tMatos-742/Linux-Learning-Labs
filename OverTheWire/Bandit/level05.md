@@ -1,4 +1,4 @@
-# Useername
+# Username
 
 bandit5
 
