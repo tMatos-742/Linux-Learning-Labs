@@ -21,3 +21,5 @@ I think we can do better than this let's use our old friend _grep_ to filter wan
 <img width="1202" height="130" alt="image" src="https://github.com/user-attachments/assets/37bd2807-34b6-4757-80fc-0fd46ef91d1b" />
 
 There we go with grep we removed every result that started with Wrong! because that was basically the message that appear every time the pin code was wrong. Basically instead of having 9999 messages saying "Wrong Password" we just got the password for bandit25. 
+
+NOTE: This is also possible to solve with a Phyton script. But for linux only propose we use a bash script.
